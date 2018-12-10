@@ -1,0 +1,219 @@
+.d1
+{
+    background-color: blue;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    height: 20%;
+    width: 80%;
+
+}
+
+.d2
+{
+    background-color:red;
+    position: absolute;
+    top: 20%;
+    left: 0%;
+    height: 80%;
+    width: 20%;
+
+}
+
+.d3
+{
+    background-color: green;
+    position: absolute;
+    top: 0%;
+    left: 80%;
+    height: 80%;
+    width: 20%;
+
+}
+
+.d4
+{
+    background-color: black;
+    position: absolute;
+    top: 80%;
+    left: 20%;
+    height: 20%;
+    width: 80%;
+
+}
+
+.d5
+{
+    background-color: pink;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    height: 60%;
+    width: 60%;
+
+}
+
+.d6
+{
+    background-color:#00ffff;
+    position: absolute;
+    top: 100%;
+    left: 0%;
+    height: 12.5%;
+    width: 100%;
+
+}
+
+.d7
+{
+    background-color: #ee55ff;
+    position: absolute;
+    top: 112.5%;
+    left: 0%;
+    height: 87.5%;
+    width: 12.5%;
+
+}
+
+.d8
+{
+    background-color:#ff33ff;
+    position: absolute;
+    top: 125%;
+    left: 12.5%;
+    height: 75%;
+    width: 12.5%;
+
+}
+
+.d9
+{
+    background-color:#ee55ff;
+    position: absolute;
+    top: 137.5%;
+    left: 25%;
+    height: 62.5%;
+    width: 12.5%;
+
+}
+
+.d10
+{
+    background-color:#ff55dd;
+    position: absolute;
+    top: 150%;
+    left: 37.5%;
+    height: 50%;
+    width: 12.5%;
+
+}
+
+.d11
+{
+    background-color:#dd00dd;
+    position: absolute;
+    top: 162.5%;
+    left: 50%;
+    height: 37.5%;
+    width: 12.5%;
+
+}
+
+.d12
+{
+    background-color:#ff44cc;
+    position: absolute;
+    top: 175%;
+    left: 62.5%;
+    height: 25%;
+    width: 12.5%;
+
+}
+
+.d13
+{
+    background-color:#cc55dd;
+    position: absolute;
+    top: 187.5%;
+    left: 75%;
+    height: 12.5%;
+    width: 12.5%;
+
+}
+
+.d14
+{
+    background-color:#22ddff;
+    position: absolute;
+    top: 112.5%;
+    left: 12.5%;
+    height: 12.5%;
+    width: 87.5%;
+
+}
+
+.d15
+{
+    background-color:#33ddcc;
+    position: absolute;
+    top: 125%;
+    left: 25%;
+    height: 12.5%;
+    width: 75%;
+
+}
+
+.d16
+{
+    background-color:#55ccff;
+    position: absolute;
+    top: 137.5%;
+    left: 37.5%;
+    height: 12.5%;
+    width: 62.5%;
+
+}
+
+.d17
+{
+    background-color:#22aaff;
+    position: absolute;
+    top: 150%;
+    left: 50%;
+    height: 12.5%;
+    width: 50%;
+
+}
+
+.d18
+{
+    background-color:#2200ff;
+    position: absolute;
+    top: 162.5%;
+    left: 62.5%;
+    height: 12.5%;
+    width: 37.5%;
+
+}
+
+.d19
+{
+    background-color:#2200aa;
+    position: absolute;
+    top: 175%;
+    left: 75%;
+    height: 12.5%;
+    width: 25%;
+
+}
+
+.d20
+{
+    background-color:#11bbaa;
+    position: absolute;
+    top: 187.5%;
+    left: 87.5%;
+    height: 12.5%;
+    width: 12.5%;
+
+}
